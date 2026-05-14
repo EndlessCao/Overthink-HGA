@@ -1,7 +1,7 @@
 [project]
-name = "overthink-black"
+name = "Overthink-HGA"
 version = "0.1.0"
-description = "Add your description here"
+description = "Official implementation of "Inducing Overthink: Hierarchical Genetic Algorithm-based DoS Attack on Black-Box Large Language Reasoning Models" (ICML 2026)."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
