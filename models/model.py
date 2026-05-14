@@ -2,7 +2,7 @@ from typing import List, Sequence
 from openai import OpenAI, AsyncOpenAI
 from dotenv import load_dotenv
 import os
-from prompts import *
+from prompts.prompts import *
 import json
 import asyncio
 import re

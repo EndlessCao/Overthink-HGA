@@ -1,6 +1,6 @@
 import pathlib
 from utils import read_dataset, random_sample
-from algorithm import GeneAttacker
+from HGA.algorithm import GeneAttacker
 
 DATA_PATH=pathlib.Path(__file__).parent / "data"
 

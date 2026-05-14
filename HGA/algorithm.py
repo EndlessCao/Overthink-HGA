@@ -5,8 +5,8 @@ import re
 import os
 from dotenv import load_dotenv
 from typing import List, Literal, Sequence, Tuple
-from model import TargetModel, AttackerModel, BaseProblem
-from prompts import *
+from models.model import TargetModel, AttackerModel, BaseProblem
+from prompts.prompts import *
 from collections import Counter
 import logging
 load_dotenv()
