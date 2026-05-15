@@ -17,8 +17,8 @@ This project is built using Python 3.13+ and uses `uv` or `pip` for dependency m
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/EndlessCao/Overthink-HGA.git
+cd Overthink-HGA
 
 # Install dependencies using pip (or uv)
 pip install -r pyproject.toml
