@@ -13,7 +13,7 @@ The core algorithm evolves input math problems (e.g., by splitting, crossing ove
 
 ## Installation
 
-This project is built using Python 3.13+ and uses `uv` or `pip` for dependency management.
+This project is built using Python 3.10+ and uses `uv` or `pip` for dependency management.
 
 ```bash
 # Clone the repository
